@@ -36,3 +36,5 @@ A basic keylogger application written in C++ that captures keyboard inputs and s
 3. To stop the keylogger, press Ctrl+C in the console or close the console window.
 
 <br>
+
+STRICTLY FOR EDUCATIONAL PURPOSES ONLY
