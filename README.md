@@ -31,7 +31,7 @@ A basic keylogger application written in C++ that captures keyboard inputs and s
 
 <br>
 
-1. Run the executable
+1. Download and run the `Keylogger.exe` executable
 2. The program will start capturing keystrokes and display them in the console while simultaneously saving them to "KeyloggerFile.txt" in the same directory
 3. To stop the keylogger, press Ctrl+C in the console or close the console window
 
